@@ -2,6 +2,7 @@
   "name": "si-579-hw6",
   "version": "0.1.0",
   "private": true,
+  "homepage": "si-579-hw6",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
